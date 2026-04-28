@@ -89,7 +89,7 @@ npm run build
 
 The main dashboard provides a comprehensive view of airline operations with key metrics and performance indicators.
 
-![Dashboard Overview - Part 1](image-2.png)
+![Dashboard Overview - Part 1](/src/assets/images/image-2.png)
 
 _Displays today's metrics, crew availability status, flight operational statistics, and incident reports_
 
@@ -97,7 +97,7 @@ _Displays today's metrics, crew availability status, flight operational statisti
 
 Additional operational insights including booking management, crew data, passenger flow, and real-time operations monitoring.
 
-![Dashboard Overview - Part 2](image-3.png)
+![Dashboard Overview - Part 2](/src/assets/images/image-3.png)
 
 _Shows comprehensive module overview with booking confirmations, crew management, passenger processing, and administrative panels_
 
@@ -105,7 +105,7 @@ _Shows comprehensive module overview with booking confirmations, crew management
 
 The flight listing table with advanced search, filtering capabilities, and inline editing for schedule management.
 
-![Flight Listing Table](image.png)
+![Flight Listing Table](/src/assets/images/image.png)
 
 _Enterprise-grade flight operations interface with multi-criteria filtering, status indicators, and action controls for flight schedule management_
 
