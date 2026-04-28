@@ -83,6 +83,32 @@ npm run build
 - Responsive Bootstrap layout
 - Badge- and card-driven information hierarchy
 
+## Screenshots
+
+### Dashboard Overview
+
+The main dashboard provides a comprehensive view of airline operations with key metrics and performance indicators.
+
+![Dashboard Overview - Part 1](image-2.png)
+
+_Displays today's metrics, crew availability status, flight operational statistics, and incident reports_
+
+### Dashboard Extended View
+
+Additional operational insights including booking management, crew data, passenger flow, and real-time operations monitoring.
+
+![Dashboard Overview - Part 2](image-3.png)
+
+_Shows comprehensive module overview with booking confirmations, crew management, passenger processing, and administrative panels_
+
+### Flight Management Interface
+
+The flight listing table with advanced search, filtering capabilities, and inline editing for schedule management.
+
+![Flight Listing Table](image.png)
+
+_Enterprise-grade flight operations interface with multi-criteria filtering, status indicators, and action controls for flight schedule management_
+
 ## Project Structure
 
 ```text
